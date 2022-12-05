@@ -1,0 +1,38 @@
+[
+    {
+    "precio": 1000,
+    "id": 1,
+    "nombre": "Mani1",
+    "imagen": "/ASSET/IMG/mani.jpg"
+    },
+    {
+    "precio": 1000,
+    "id": 2,
+    "nombre": "Mani2",
+    "imagen": "/ASSET/IMG/mani.jpg"
+    },
+    {
+    "precio": 1000,
+    "id": 3,
+    "nombre": "Mani3",
+    "imagen": "/ASSET/IMG/mani.jpg"
+    },
+    {
+    "precio": 1000,
+    "id": 4,
+    "nombre": "Mani4",
+    "imagen": "/ASSET/IMG/mani.jpg"
+    },
+    {
+    "precio": 1000,
+    "id": 5,
+    "nombre": "Mani5",
+    "imagen": "/ASSET/IMG/mani.jpg"
+    },
+    {
+    "precio": 1000,
+    "id": 6,
+    "nombre": "Mani6",
+    "imagen": "/ASSET/IMG/mani.jpg"
+    }
+]
